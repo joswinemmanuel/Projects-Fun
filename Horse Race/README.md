@@ -1,0 +1,1 @@
+<h3>This is a basic model of a betting game based on the result of a horse race. The horse we selected and the computer's horse are AI bots and both have the same porbability to win. If the user is lucky he will win. The score and amount won or lost in saved in a mysql database.</h3>
