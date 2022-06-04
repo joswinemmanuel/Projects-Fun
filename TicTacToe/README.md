@@ -2,6 +2,6 @@
 
 
 <p float="left">
-  <img src="images/demo.png" width="500" />
-  <img src="images/demo2.png" width="285" /> 
+  <img src="Images/demo.png" width="400" />
+  <img src="Images/demo2.png" width="445" /> 
 </p>
