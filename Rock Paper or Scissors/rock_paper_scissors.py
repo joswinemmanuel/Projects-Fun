@@ -21,7 +21,7 @@ while True:
 
     n=input('Rock, paper or scissors? : ').lower()
     while n not in ('rock','paper','scissors'):
-        n=input('Choose rock, paper or scissors??').lower()
+        n=input('Choose rock, paper or scissors?? : ').lower()
     c=random.choice(['rock','paper','scissors'])
     print('Comptuer chose : ',c)
     time.sleep(1)
