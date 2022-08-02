@@ -1,4 +1,4 @@
-''' A game of rock, paper and scissors aganist the computer '''
+''' A game of rock, paper and scissors against the computer '''
 
 import random
 import time
