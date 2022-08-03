@@ -1,4 +1,4 @@
-import time
+import time #importing time module
 def ai_guess_algo(a,b,c):
     time.sleep(1)
     print("This is how AI finds the number")
