@@ -1,1 +1,1 @@
-<h3>Just a folder to save log</h3>
+<h3>Just a folder to save log data</h3>
